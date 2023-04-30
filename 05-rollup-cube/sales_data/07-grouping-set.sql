@@ -1,5 +1,6 @@
 select
     coalesce(cast(date as varchar), '-') as DT,
+    
     coalesce(product, '--') as Product,
     -- region,
     sum(sales) as total_sales

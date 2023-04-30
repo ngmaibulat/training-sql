@@ -9,6 +9,7 @@ CUBE generates these grouping sets:
 (column1)
 (column2)
 ()
+
 ROLLUP generates these grouping sets:
 
 (column1, column2)
