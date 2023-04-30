@@ -1,16 +1,13 @@
 
 select
-    date,
+    product,
     region,
     -- product,
     sum(sales) as total_sales
 
 from sales_data
 
-group by rollup(date, region)
+group by cube(product, region)
 
-order by date, region;
-
-
-
+order by product, region;
 

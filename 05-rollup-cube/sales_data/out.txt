@@ -1,0 +1,332 @@
+    date    |   region    | total_sales 
+------------+-------------+-------------
+ 2023-01-01 | Belebey     |          95
+ 2023-01-01 | Ishimbay    |          80
+ 2023-01-01 | Kumertau    |         110
+ 2023-01-01 | Neftekamsk  |         140
+ 2023-01-01 | Oktyabrsky  |         125
+ 2023-01-01 | Salavat     |         160
+ 2023-01-01 | Sterlitamak |         190
+ 2023-01-01 | Ufa         |         250
+ 2023-01-01 |             |        1150
+ 2023-01-02 | Belebey     |         105
+ 2023-01-02 | Ishimbay    |          90
+ 2023-01-02 | Kumertau    |         120
+ 2023-01-02 | Neftekamsk  |         140
+ 2023-01-02 | Oktyabrsky  |         710
+ 2023-01-02 | Salavat     |         160
+ 2023-01-02 | Sterlitamak |         185
+ 2023-01-02 | Ufa         |         250
+ 2023-01-02 |             |        1760
+            |             |        2910
+(19 rows)
+
+<table border="1">
+  <tr>
+    <th align="center">date</th>
+    <th align="center">region</th>
+    <th align="center">total_sales</th>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">Belebey</td>
+    <td align="right">95</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">Ishimbay</td>
+    <td align="right">80</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">Kumertau</td>
+    <td align="right">110</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">Neftekamsk</td>
+    <td align="right">140</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">Oktyabrsky</td>
+    <td align="right">125</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">Salavat</td>
+    <td align="right">160</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">Sterlitamak</td>
+    <td align="right">190</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">Ufa</td>
+    <td align="right">250</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-01</td>
+    <td align="left">&nbsp; </td>
+    <td align="right">1150</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">Belebey</td>
+    <td align="right">105</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">Ishimbay</td>
+    <td align="right">90</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">Kumertau</td>
+    <td align="right">120</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">Neftekamsk</td>
+    <td align="right">140</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">Oktyabrsky</td>
+    <td align="right">710</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">Salavat</td>
+    <td align="right">160</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">Sterlitamak</td>
+    <td align="right">185</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">Ufa</td>
+    <td align="right">250</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">2023-01-02</td>
+    <td align="left">&nbsp; </td>
+    <td align="right">1760</td>
+  </tr>
+  <tr valign="top">
+    <td align="left">&nbsp; </td>
+    <td align="left">&nbsp; </td>
+    <td align="right">2910</td>
+  </tr>
+</table>
+<p>(19 rows)<br />
+</p>
+-[ RECORD 1 ]------------
+date        | 2023-01-01
+region      | Belebey
+total_sales | 95
+-[ RECORD 2 ]------------
+date        | 2023-01-01
+region      | Ishimbay
+total_sales | 80
+-[ RECORD 3 ]------------
+date        | 2023-01-01
+region      | Kumertau
+total_sales | 110
+-[ RECORD 4 ]------------
+date        | 2023-01-01
+region      | Neftekamsk
+total_sales | 140
+-[ RECORD 5 ]------------
+date        | 2023-01-01
+region      | Oktyabrsky
+total_sales | 125
+-[ RECORD 6 ]------------
+date        | 2023-01-01
+region      | Salavat
+total_sales | 160
+-[ RECORD 7 ]------------
+date        | 2023-01-01
+region      | Sterlitamak
+total_sales | 190
+-[ RECORD 8 ]------------
+date        | 2023-01-01
+region      | Ufa
+total_sales | 250
+-[ RECORD 9 ]------------
+date        | 2023-01-01
+region      | 
+total_sales | 1150
+-[ RECORD 10 ]-----------
+date        | 2023-01-02
+region      | Belebey
+total_sales | 105
+-[ RECORD 11 ]-----------
+date        | 2023-01-02
+region      | Ishimbay
+total_sales | 90
+-[ RECORD 12 ]-----------
+date        | 2023-01-02
+region      | Kumertau
+total_sales | 120
+-[ RECORD 13 ]-----------
+date        | 2023-01-02
+region      | Neftekamsk
+total_sales | 140
+-[ RECORD 14 ]-----------
+date        | 2023-01-02
+region      | Oktyabrsky
+total_sales | 710
+-[ RECORD 15 ]-----------
+date        | 2023-01-02
+region      | Salavat
+total_sales | 160
+-[ RECORD 16 ]-----------
+date        | 2023-01-02
+region      | Sterlitamak
+total_sales | 185
+-[ RECORD 17 ]-----------
+date        | 2023-01-02
+region      | Ufa
+total_sales | 250
+-[ RECORD 18 ]-----------
+date        | 2023-01-02
+region      | 
+total_sales | 1760
+-[ RECORD 19 ]-----------
+date        | 
+region      | 
+total_sales | 2910
+
+                                    Table "public.sales_data"
+ Column  |          Type          | Collation | Nullable |                Default                 
+---------+------------------------+-----------+----------+----------------------------------------
+ id      | integer                |           | not null | nextval('sales_data_id_seq'::regclass)
+ date    | date                   |           | not null | 
+ region  | character varying(255) |           | not null | 
+ product | character varying(255) |           | not null | 
+ sales   | integer                |           | not null | 
+Indexes:
+    "sales_data_pkey" PRIMARY KEY, btree (id)
+
+List of relations
+-[ RECORD 1 ]-----------------------
+Schema | public
+Name   | appname
+Type   | table
+Owner  | postgres
+-[ RECORD 2 ]-----------------------
+Schema | public
+Name   | company
+Type   | table
+Owner  | postgres
+-[ RECORD 3 ]-----------------------
+Schema | public
+Name   | company_raw
+Type   | table
+Owner  | postgres
+-[ RECORD 4 ]-----------------------
+Schema | public
+Name   | contacts
+Type   | table
+Owner  | postgres
+-[ RECORD 5 ]-----------------------
+Schema | public
+Name   | country
+Type   | table
+Owner  | postgres
+-[ RECORD 6 ]-----------------------
+Schema | public
+Name   | customers
+Type   | table
+Owner  | postgres
+-[ RECORD 7 ]-----------------------
+Schema | public
+Name   | departments
+Type   | table
+Owner  | postgres
+-[ RECORD 8 ]-----------------------
+Schema | public
+Name   | emp
+Type   | table
+Owner  | postgres
+-[ RECORD 9 ]-----------------------
+Schema | public
+Name   | euro_rub
+Type   | table
+Owner  | postgres
+-[ RECORD 10 ]----------------------
+Schema | public
+Name   | euro_rub_clean
+Type   | table
+Owner  | postgres
+-[ RECORD 11 ]----------------------
+Schema | public
+Name   | notes
+Type   | table
+Owner  | postgres
+-[ RECORD 12 ]----------------------
+Schema | public
+Name   | orders
+Type   | table
+Owner  | postgres
+-[ RECORD 13 ]----------------------
+Schema | public
+Name   | products
+Type   | table
+Owner  | postgres
+-[ RECORD 14 ]----------------------
+Schema | public
+Name   | rbot_availability_overrides
+Type   | table
+Owner  | postgres
+-[ RECORD 15 ]----------------------
+Schema | public
+Name   | rbot_default_availability
+Type   | table
+Owner  | postgres
+-[ RECORD 16 ]----------------------
+Schema | public
+Name   | rbot_doctors
+Type   | table
+Owner  | postgres
+-[ RECORD 17 ]----------------------
+Schema | public
+Name   | rbot_reservations
+Type   | table
+Owner  | postgres
+-[ RECORD 18 ]----------------------
+Schema | public
+Name   | sales_data
+Type   | table
+Owner  | postgres
+-[ RECORD 19 ]----------------------
+Schema | public
+Name   | somedata
+Type   | table
+Owner  | postgres
+-[ RECORD 20 ]----------------------
+Schema | public
+Name   | tasks
+Type   | table
+Owner  | postgres
+-[ RECORD 21 ]----------------------
+Schema | public
+Name   | todolists
+Type   | table
+Owner  | postgres
+-[ RECORD 22 ]----------------------
+Schema | public
+Name   | users
+Type   | table
+Owner  | postgres
+-[ RECORD 23 ]----------------------
+Schema | public
+Name   | web_traffic
+Type   | table
+Owner  | postgres
+

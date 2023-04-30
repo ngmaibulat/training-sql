@@ -62,3 +62,15 @@
 \dn                 List all schemas in the current database.
 \df                 List all functions in the current database.
 ```
+
+### Resources:
+
+-   https://www.sqltutorial.org/
+-   https://www.sqlservertutorial.net/sql-server-basics/
+-   https://www.educba.com/data-science/data-science-tutorials/sql-tutorial/
+-   https://www.dofactory.com/sql
+-   https://www.dofactory.com/sql/reference
+-   https://www.dofactory.com/sql/cube
+-   https://learnsql.com/cookbook/
+-   https://www.mssqltips.com/sqlservertip/1958/sql-server-cross-apply-and-outer-apply/
+-   https://docs.data.world/documentation/sql/concepts/basic/intro.html
