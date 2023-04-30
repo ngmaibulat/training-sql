@@ -1,0 +1,20 @@
+INSERT INTO web_traffic (visit_id, device_type, browser, visit_date, page_views) VALUES
+(1, 'mobile', 'Chrome', '2023-04-01', 55),
+(2, 'desktop', 'Firefox', '2023-04-01', 78),
+(3, 'mobile', 'Safari', '2023-04-01', 32),
+(4, 'mobile', 'Chrome', '2023-04-02', 67),
+(5, 'desktop', 'Chrome', '2023-04-02', 102),
+(6, 'desktop', 'Firefox', '2023-04-02', 89),
+(7, 'mobile', 'Safari', '2023-04-03', 45),
+(8, 'desktop', 'Chrome', '2023-04-03', 70),
+(9, 'mobile', 'Chrome', '2023-04-03', 62),
+(10, 'desktop', 'Firefox', '2023-04-03', 95),
+(11, 'mobile', 'Safari', '2023-04-04', 38),
+(12, 'desktop', 'Firefox', '2023-04-04', 88),
+(13, 'mobile', 'Chrome', '2023-04-04', 71),
+(14, 'desktop', 'Chrome', '2023-04-04', 96),
+(15, 'mobile', 'Safari', '2023-04-05', 49),
+(16, 'desktop', 'Firefox', '2023-04-05', 92),
+(17, 'mobile', 'Chrome', '2023-04-05', 64),
+(18, 'desktop', 'Chrome', '2023-04-05', 105);
+

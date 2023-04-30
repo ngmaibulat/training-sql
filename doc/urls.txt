@@ -1,0 +1,7 @@
+https://www.nasdaq.com/market-activity/stocks/screener
+
+https://www.tableau.com/products/public/download
+
+https://public.tableau.com/app/resources/learn
+
+https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download

@@ -1,0 +1,6 @@
+Investing.com:
+Investing.com also provides historical exchange rate data for the euro and Russian ruble in CSV format.
+To download the data, go to the historical data page for the EUR/RUB currency pair at
+https://www.investing.com/currencies/eur-rub-historical-data
+and select "Download Data" at the bottom of the page.
+Then, select "CSV" as the download format and choose the desired time period.
