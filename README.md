@@ -33,6 +33,7 @@
 \q, \quit           Quit psql and exit the program.
 \s                  Show History
 
+\cd                 Change Directory
 \! <cmd>            Run os cmd
 \! ls               Run ls
 
@@ -45,6 +46,9 @@
 \o out.txt          Send output to out.txt
 \o                  Restore output to CLI
 \o |cmd             Send output to cmd
+
+\copy ...           Perform SQL COPY with data stream to the client host
+\echo [STRING]      Write string to standard output
 
 \dt                 List all tables in the current database.
 \d, \describe       Show detailed information about a table or view.
