@@ -1,3 +1,5 @@
+truncate table sales_data;
+
 -- Ufa
 INSERT INTO sales_data (date, region, product, sales) VALUES ('2023-01-01', 'Ufa', 'Iphone', 100);
 INSERT INTO sales_data (date, region, product, sales) VALUES ('2023-01-02', 'Ufa', 'Iphone', 120);

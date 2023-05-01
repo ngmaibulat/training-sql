@@ -1,0 +1,43 @@
+truncate table sales_person;
+
+INSERT INTO sales_person (name, region) VALUES ('Aygül Khamitova', 'Ufa');
+INSERT INTO sales_person (name, region) VALUES ('Rustem Zaynullin', 'Sterlitamak');
+INSERT INTO sales_person (name, region) VALUES ('Guzel Galimova', 'Salavat');
+INSERT INTO sales_person (name, region) VALUES ('Ilsur Gataullin', 'Neftekamsk');
+INSERT INTO sales_person (name, region) VALUES ('Alsu Minnakhmetova', 'Oktyabrsky');
+INSERT INTO sales_person (name, region) VALUES ('Rinat Galiakbarov', 'Birsk');
+INSERT INTO sales_person (name, region) VALUES ('Elvira Sadykova', 'Kumertau');
+INSERT INTO sales_person (name, region) VALUES ('Dinar Zinnatullin', 'Uchaly');
+INSERT INTO sales_person (name, region) VALUES ('Liliya Akhmetshina', 'Beloretsk');
+INSERT INTO sales_person (name, region) VALUES ('Airat Nuriev', 'Ishimbay');
+
+INSERT INTO sales_person (name, region) VALUES ('Feruza Murtazina', 'Kumertau');
+INSERT INTO sales_person (name, region) VALUES ('Ruslan Giniyatullin', 'Ishimbay');
+INSERT INTO sales_person (name, region) VALUES ('Aida Safina', 'Sterlitamak');
+INSERT INTO sales_person (name, region) VALUES ('Marat Gizzatullin', 'Ufa');
+INSERT INTO sales_person (name, region) VALUES ('Dilyara Zakirova', 'Belebey');
+INSERT INTO sales_person (name, region) VALUES ('Rail Gabdrakhmanov', 'Salavat');
+INSERT INTO sales_person (name, region) VALUES ('Alfiya Khasanova', 'Oktyabrsky');
+INSERT INTO sales_person (name, region) VALUES ('Rafis Ibragimov', 'Neftekamsk');
+INSERT INTO sales_person (name, region) VALUES ('Adelina Suleymanova', 'Kumertau');
+INSERT INTO sales_person (name, region) VALUES ('Eduard Khairullin', 'Ishimbay');
+INSERT INTO sales_person (name, region) VALUES ('Gulnaz Faizova', 'Sterlitamak');
+INSERT INTO sales_person (name, region) VALUES ('Ilshat Mavlyutov', 'Ufa');
+INSERT INTO sales_person (name, region) VALUES ('Madina Gainutdinova', 'Belebey');
+INSERT INTO sales_person (name, region) VALUES ('Anvar Safiullin', 'Salavat');
+INSERT INTO sales_person (name, region) VALUES ('Leysan Kharisova', 'Oktyabrsky');
+INSERT INTO sales_person (name, region) VALUES ('Ramil Mirgalimov', 'Neftekamsk');
+INSERT INTO sales_person (name, region) VALUES ('Regina Galiullina', 'Kumertau');
+INSERT INTO sales_person (name, region) VALUES ('Elina Abdrakhmanova', 'Sterlitamak');
+INSERT INTO sales_person (name, region) VALUES ('Ilgiz Gabdullin', 'Ufa');
+INSERT INTO sales_person (name, region) VALUES ('Gulnara Kamaletdinova', 'Belebey');
+INSERT INTO sales_person (name, region) VALUES ('Rashid Gazizov', 'Salavat');
+INSERT INTO sales_person (name, region) VALUES ('Alina Valiullina', 'Oktyabrsky');
+INSERT INTO sales_person (name, region) VALUES ('Radik Gareev', 'Neftekamsk');
+INSERT INTO sales_person (name, region) VALUES ('Gulnaz Minullina', 'Kumertau');
+INSERT INTO sales_person (name, region) VALUES ('Farit Davletshin', 'Ishimbay');
+INSERT INTO sales_person (name, region) VALUES ('Albina Khusainova', 'Sterlitamak');
+INSERT INTO sales_person (name, region) VALUES ('Rustam Fattakhov', 'Ufa');
+INSERT INTO sales_person (name, region) VALUES ('Alina Gizzatullina', 'Belebey');
+INSERT INTO sales_person (name, region) VALUES ('Irek Nigmatullin', 'Salavat');
+
