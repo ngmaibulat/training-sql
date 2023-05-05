@@ -2,6 +2,19 @@
 
 -   podman/docker
 -   psql client
+-   warp terminal
+-   squitch database migration tool
+
+### Tools Macos
+
+-   postico SQL client
+
+### Squitch install on Macos:
+
+```bash
+brew tap sqitchers/sqitch
+brew install sqitch --with-postgres-support --with-sqlite-support
+```
 
 ### Tools Windows
 

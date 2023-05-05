@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=support_portal
+
+appschema 2023-05-02T11:24:12Z System Administrator <root@192.168.1.8> # Support Portal Schema
+01-insert-data 2023-05-02T12:20:47Z System Administrator <root@192.168.1.8> # Insert Data
+@v0.0.1 2023-05-02T13:03:59Z System Administrator <root@192.168.1.8> # Tag v0.0.1

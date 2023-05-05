@@ -1,4 +1,4 @@
-INSERT INTO customers (rank, company_name, revenue, country, address, industry) VALUES
+INSERT INTO hr_customers (rank, company_name, revenue, country, address, industry) VALUES
 (1, 'Walmart', 559151, 'United States', 'Bentonville, AR', 'Retailing'),
 (2, 'Amazon.com', 386064, 'United States', 'Seattle, WA', 'Internet Services and Retailing'),
 (3, 'Exxon Mobil', 264938, 'United States', 'Irving, TX', 'Energy'),
@@ -26,7 +26,7 @@ INSERT INTO customers (rank, company_name, revenue, country, address, industry) 
 (25, 'Cardinal Health', 92677, 'United States', 'Dublin, OH', 'Wholesalers: Health Care');
 
 
-INSERT INTO customers (rank, company_name, revenue, country, address, industry) VALUES
+INSERT INTO hr_customers (rank, company_name, revenue, country, address, industry) VALUES
 (26, 'Home Depot', 88722, 'United States', 'Atlanta, GA', 'Retailing'),
 (27, 'Comcast', 87134, 'United States', 'Philadelphia, PA', 'Telecommunications'),
 (28, 'IBM', 77304, 'United States', 'Armonk, NY', 'Technology'),
@@ -56,7 +56,7 @@ INSERT INTO customers (rank, company_name, revenue, country, address, industry) 
 (52, 'Lockheed Martin', 50039, 'United States', 'Bethesda, MD', 'Aerospace and Defense');
 
 
-INSERT INTO customers (rank, company_name, revenue, country, address, industry) VALUES
+INSERT INTO hr_customers (rank, company_name, revenue, country, address, industry) VALUES
 (53, 'The Goldman Sachs Group', 43372, 'United States', 'New York, NY', 'Financials'),
 (54, 'Morgan Stanley', 42656, 'United States', 'New York, NY', 'Financials'),
 (55, 'The Dow Chemical Company', 42527, 'United States', 'Midland, MI', 'Chemicals'),

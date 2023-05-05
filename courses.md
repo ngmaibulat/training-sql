@@ -2,3 +2,4 @@
 -   https://www.cockroachlabs.com/blog/sql-cheat-sheet/
 -   https://www.cockroachlabs.com/blog/change-data-capture/
 -   https://www.cockroachlabs.com/blog/spanner-vs-cockroachdb/
+-   https://pgexperts.com/services/training/
