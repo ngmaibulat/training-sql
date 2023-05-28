@@ -1,0 +1,9 @@
+  id  | symbol |                   name                    | last_sale | net_change | percent_change |  market_cap   |    country    | ipo_year |  volume  |         sector         |            industry             
+------+--------+-------------------------------------------+-----------+------------+----------------+---------------+---------------+----------+----------+------------------------+---------------------------------
+ 7832 | A      | Agilent Technologies Inc. Common Stock    |    138.34 |       3.85 |          2.863 |   40929282776 | United States |     1999 |  2579848 | Industrials            | Electrical Products
+ 7833 | AAOI   | Applied Optoelectronics Inc. Common Stock |      2.21 |       0.28 |         14.508 |      63255822 | United States |     2013 |   357993 | Technology             | Semiconductors
+ 7834 | AAON   | AAON Inc. Common Stock                    |     96.69 |       1.79 |          1.886 |    5143863233 | United States |          |   337310 | Industrials            | Industrial Machinery/Components
+ 7835 | AAP    | Advance Auto Parts Inc.                   |    121.61 |          3 |          2.529 |    7205844403 | United States |          |  1028560 | Consumer Discretionary | Auto & Home Supply Stores
+ 7836 | AAPL   | Apple Inc. Common Stock                   |     164.9 |       2.54 |          1.564 | 2858927366000 | United States |     1980 | 68694230 | Technology             | Computer Manufacturing
+(5 rows)
+
